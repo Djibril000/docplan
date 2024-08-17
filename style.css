@@ -1,0 +1,91 @@
+img{
+    height: 50px;
+    width: 50px;
+    padding-right: 100px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    padding-bottom: 30;
+    padding-right:50px;
+    padding-left:50px;
+    font-size: larger;
+     }
+ 
+    .header{
+      background-color: rgb(245, 165, 5);
+      height: 30 px;
+      text-align: left;
+      display: flex;
+    }
+ 
+    ul li a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: rgb(241, 235, 235);
+    text-decoration: none;
+    }
+
+    h1{
+        color: rgb(0,191,165);
+        margin-left: 250px;
+    }
+    
+    .menu li a{
+    letter-spacing: 10px;    
+    justify-content: space-between 50px;                                                     /* Sert à souligner les éléments de nav */
+    }
+ 
+    .logo{
+        padding-left: 530px;
+    }
+
+    #blok{
+        display: inline-flex;
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .m{
+        padding-right: 100px;
+    }
+    #categories{
+        display: inline-flex;
+        padding-left: 300px;
+    }
+
+    .patients{
+        margin-right: 150px;
+        background-color: rgb(0,204,177);
+        color: white;
+        height: 150px;
+        width:150px ;
+        padding-left: 15px;
+        padding-right: 15px;
+        
+    }
+
+    .medecins{
+        color: white;
+        background-color: rgb(61,131,223);
+        height: 150px;
+        width:150px ;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .cliniques{
+        margin-left: 100px;
+        color: white;
+        background-color: rgb(27,39,52);
+        height: 150px;
+        width:150px ;
+        padding-left: 15px;
+        padding-right: 15px;
+
+    }
+    
+    
+    .sou{
+        padding-right: 20px;
+    }
